@@ -8,3 +8,4 @@ for (var i = 0; i < paragraphes.length; i++) {
     console.log(prefixe + prenom);
   });
 }
+
